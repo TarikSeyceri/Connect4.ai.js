@@ -1,10 +1,12 @@
 # Connect4.js
 
-Connect4 v4.0, This project is a game developed in four versions, C, C++, Java SE & Node.js, older to newer respect
+![alt Connect4](cover.webp)
+
+Connect4 v4.0, Is a game developed in four versions, Node.js + AI, Java SE, C++, C, newer to older respect
 
 This version is written with Node.js (JavaScript) Programming Language in 2024,
 
-![alt Preview](preview.jpg)
+![alt Connect4v4](preview.jpg)
 
 It was for my master's degree's project
 
@@ -49,9 +51,9 @@ user vs. computer as well as computer vs. computer modes.
 
 1. Run the game using Node.js:
 
-```bash
-node Connect4.js
-```
+    ```bash
+    node Connect4.js
+    ```
 
 2. Follow the on-screen instructions to play the game.
 
