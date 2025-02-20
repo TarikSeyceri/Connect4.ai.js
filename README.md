@@ -1,4 +1,4 @@
-# Connect4.js
+# Connect4.ai.js
 
 ![alt Connect4](cover.webp)
 
